@@ -1,0 +1,33 @@
+
+Current Trends in Web Engineering
+Prof. Gaedke
+SS17 - Repeat exam
+
+Incomplete tasks
+
+1. Scrum
+see other exams
+
+2. Scrum applied
+Velocity, Story picking for next sprint, Burndown Chart
+
+3. Design Thinking
+Describe the three Lenses of HCD.
+
+Given: a private hospital, which fulfills all three lenses.
+Name how each lense is fulfilled in this case.
+
+4. Digital Identity
+Write Activity Stream for Blog entry.
+
+5. Social Web
+Describe how a Facebook Batch Request works.
+How can you run such a Batch Request.
+
+Write output of the given batch request (given is a curl command).
+
+What is an access token? How and where can you get one?
+
+6. Allignment Diagram
+Create an Allignment diagram (table form) from a given description of an hotel reservation system.
+Name some Backlog Items for future enhancements.

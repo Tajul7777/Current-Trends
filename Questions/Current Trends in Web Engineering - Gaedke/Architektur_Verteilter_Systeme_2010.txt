@@ -1,0 +1,7 @@
+Fragen aus der Prüfung 2010:
+
+1. Was ist SCRUM
+2. Sprint Backlog erklären und aufmalen
+3. Was ist REST?
+4. Eine API zur Buchbestellung mit REST ausdenken
+5. BitTorrent erklären

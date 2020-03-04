@@ -1,0 +1,11 @@
+Ich habe zum Lernen für AVS ein paar Podcasts angehört, die ich nur weiterempfehlen kann.
+
+Zu Scrum:
+> http://www.binaris.de/scrum/
+-> Die sind alle echt gut! Nicht vom Intro abschrecken lassen :)
+
+Zu Cloud Computing:
+> http://chaosradio.ccc.de/cr153.html
+
+Zu REST:
+> http://www.heise.de/developer/artikel/Episode-17-Einstieg-in-REST-921652.html
